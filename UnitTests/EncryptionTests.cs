@@ -4,6 +4,7 @@ using System.Text;
 using Lidgren.Network;
 using System.Security;
 using System.Collections.Generic;
+using UnityEngine;
 
 namespace UnitTests
 {
